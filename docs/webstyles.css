@@ -45,7 +45,7 @@ body{
 }
 
 .page-contenido{
-    background-image: url('../img/pen.jpg');
+    background-image: url('https://raw.githubusercontent.com/alexphdz/aaphwebpageport/master/img/pen.jpg');
     background-attachment: fixed;
     background-size:cover;
 }
@@ -113,7 +113,7 @@ body{
 /*Seccion 2*/
 
 .seccion2 .container-fluid{
-    background-image: url('img/servers.jpg');
+    background-image: url('../img/servers.jpg');
     background-attachment: fixed;
     background-size:cover;
 }
