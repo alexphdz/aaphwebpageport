@@ -113,7 +113,7 @@ body{
 /*Seccion 2*/
 
 .seccion2 .container-fluid{
-    background-image: url('../img/servers.jpg');
+    background-image: url('img/servers.jpg');
     background-attachment: fixed;
     background-size:cover;
 }
